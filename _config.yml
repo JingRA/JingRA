@@ -33,7 +33,7 @@ baseurl: /LOFFER
 # 菜单中的按钮
 navigation:
   - name: 首页
-    url: /
+    url: https://jingra.github.io/JingRA/
   - name: 关于
     url: /about
   - name: 归档
