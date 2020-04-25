@@ -16,7 +16,7 @@ url: https://jingra.github.io/JingRA/
 # 添加你的博客的二级域名，一般来说是你的repository名
 # 如果你的博客的URL是：(http://yourusername.github.io/repository-name)
 # 那么就写成 "/repository-name"
-baseurl: /JingRA
+baseurl: "/JingRA"
 
 
 #
@@ -35,7 +35,7 @@ navigation:
   - name: 首页
     url: https://jingra.github.io/JingRA/
   - name: 关于
-    url: /about
+    url: https://jingra.github.io/JingRA/Index #/about
   - name: 归档
     url: /archive
   - name: 标签
