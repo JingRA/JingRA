@@ -2,7 +2,7 @@
 layout: post
 title: 置顶公告
 date: 2020-04-26
-Author: Jing RA
+Author: JingRA
 tags: [公告]
 comments: true
 toc: true
@@ -13,9 +13,8 @@ pinned: true
 
 想法平庸，内容无趣。这里只是用来做个备份。
 
-### 主要出没区域：
+### 主要出没区域
 
 **微博：**
 
 **LOFTER：**
-
