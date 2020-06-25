@@ -1,7 +1,7 @@
 ---
 layout: post
-title: L'ete Arrive
-date: 2020-05-23
+title: Just For Fun
+date: 2020-06-14
 author: Jing RA
 tags: [拿破仑战争, 拿破仑, 迪罗克]
 comments: true
